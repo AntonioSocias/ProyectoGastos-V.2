@@ -4,7 +4,7 @@
 Breve resumen de lo que hace tu proyecto y cuál es su propósito.  
 
 > **Ejemplo**:  
-> Este proyecto consiste en una aplicación móvil desarrollada con Android Studio y un servidor backend en Python. El objetivo es gestionar pedidos y productos de forma eficiente mediante una interfaz intuitiva y una API robusta.
+> Este proyecto consiste en una aplicación móvil desarrollada con Android Studio y un servidor backend en Python. El objetivo es gestionar gastos compartidos entre un grupo de personas, como viajes o eventos.
 
 ---
 
