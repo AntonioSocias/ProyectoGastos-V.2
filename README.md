@@ -22,7 +22,7 @@ Breve resumen de lo que hace tu proyecto y cuál es su propósito.
 ## 📂 Estructura del Proyecto  
 
 mi-proyecto/ ├── android/ # Código de la aplicación Android │ ├── app/ # Código fuente de la app │ │ ├── src/ # Lógica principal de la app │ │ ├── build.gradle # Configuración de Gradle específica de la app │ │ └── ...
-│ ├── gradle/ # Configuración de Gradle │ ├── .gitignore # Ignorar archivos específicos de Android │ ├── build.gradle # Configuración principal de Gradle │ └── settings.gradle # Configuración del proyecto Android Studio │ ├── server/ # Código del servidor en Python │ ├── app/ # Código fuente del servidor │ │ ├── main.py # Punto de entrada de la API │ │ ├── models/ # Modelos de datos │ │ ├── routes/ # Rutas o endpoints │ │ └── utils/ # Funciones de utilidad │ ├── requirements.txt # Dependencias del servidor │ ├── Dockerfile # (Opcional) Configuración de Docker para el servidor │ └── .gitignore # Ignorar archivos específicos de Python │ ├── docs/ # Documentación del proyecto │ ├── arquitectura.md # Diseño y decisiones técnicas │ ├── manual-usuario.md # Guía para usuarios finales │ └── ... │ ├── tests/ # Tests del proyecto │ ├── android/ # Tests relacionados con Android │ ├── server/ # Tests relacionados con el servidor │ └── README.md # Explicación de los tests │ ├── .gitignore # Ignorar archivos generales del repositorio ├── README.md # Este archivo └── LICENSE # (Opcional) Licencia del proyecto
+│ ├── gradle/ # Configuración de Gradle │ ├── .gitignore # Ignorar archivos específicos de Android │ ├── build.gradle # Configuración principal de Gradle │ └── settings.gradle # Configuración del proyecto Android Studio │ ├── server/ # Código del servidor en Python │ ├── app/ # Código fuente del servidor │ │ ├── main.py # Punto de entrada de la API │ │ ├── models/ # Modelos de datos │ │ ├── routes/ # Rutas o endpoints │ │ └── utils/ # Funciones de utilidad │ ├── requirements.txt # Dependencias del servidor │ └── .gitignore # Ignorar archivos específicos de Python │ ├── docs/ # Documentación del proyecto │ ├── arquitectura.md # Diseño y decisiones técnicas │ ├── manual-usuario.md # Guía para usuarios finales │ └── ... │ ├── tests/ # Tests del proyecto │ ├── android/ # Tests relacionados con Android │ ├── server/ # Tests relacionados con el servidor │ └── README.md # Explicación de los tests │ ├── .gitignore # Ignorar archivos generales del repositorio ├── README.md # Este archivo
 
 
 ---
@@ -46,7 +46,9 @@ Sigue estos pasos para configurar el proyecto localmente.
 git clone https://github.com/tu-usuario/mi-proyecto.git
 cd mi-proyecto
 
+---
 
 ## 📬 Contacto
 Email: antonio.socias.verdugo@gmail.com
-GitHub: - **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-tu--usuario-blue?style=flat&logo=github)](https://github.com/AntonioSocias)
+GitHub: - **GitHub**: [github.com/tu-usuario](https://github.com/AntonioSocias)
+
