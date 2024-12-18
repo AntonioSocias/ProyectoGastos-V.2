@@ -45,10 +45,10 @@ Sigue estos pasos para configurar el proyecto localmente.
 ```bash
 git clone https://github.com/tu-usuario/mi-proyecto.git
 cd mi-proyecto
-
----
+```
 
 ## 📬 Contacto
-Email: antonio.socias.verdugo@gmail.com
-GitHub: - **GitHub**: [github.com/tu-usuario](https://github.com/AntonioSocias)
+**Email**: antonio.socias.verdugo@gmail.com
+
+**GitHub**: [github.com/tu-usuario](https://github.com/AntonioSocias)
 
