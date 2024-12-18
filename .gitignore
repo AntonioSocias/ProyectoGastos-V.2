@@ -1,0 +1,7 @@
+# Ignorar archivos generales
+*.log
+*.tmp
+# Ignorar carpetas específicas
+android/.gradle/
+android/.idea/
+server/__pycache__/
